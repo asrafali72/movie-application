@@ -7,6 +7,9 @@ import theme from './theme';
 import { BrowserRouter } from 'react-router-dom';
 import { AuthProvider } from './context/AuthContext'; 
 
+import axios from 'axios';
+axios.defaults.baseURL = 'https://movie-application-backend-8dqa.onrender.com';
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
