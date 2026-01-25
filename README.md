@@ -11,6 +11,7 @@ A production-ready Movie Management Platform built using the MERN stack with sec
 
 ## 🌐 Live Demo
 Frontend: https://movie-application-frontend.onrender.com 
+
 Backend API: https://your-api.onrender.com  
 
 ## 🧩 Features
