@@ -10,7 +10,7 @@ A production-ready Movie Management Platform built using the MERN stack with sec
 - Responsive UI with Material UI
 
 ## 🌐 Live Demo
-Frontend: https://your-app.vercel.app  
+Frontend: https://movie-application-frontend.onrender.com 
 Backend API: https://your-api.onrender.com  
 
 ## 🧩 Features
